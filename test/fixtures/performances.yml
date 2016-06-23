@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  performer_id: 1
+  organization_id: 1
+  start: 2016-06-23 09:46:03
+  end: 2016-06-23 09:46:03
+
+two:
+  performer_id: 1
+  organization_id: 1
+  start: 2016-06-23 09:46:03
+  end: 2016-06-23 09:46:03
