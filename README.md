@@ -1,3 +1,5 @@
+# NOTE: This repo is depricated in favor of https://github.com/codefordenver/encorelink
+
 # Music Volunteers App
 
 Platform built for the Code For Denver Music-Volunteers project
